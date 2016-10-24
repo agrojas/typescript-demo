@@ -1,0 +1,19 @@
+{
+  "name": "typescript-demos",
+  "version": "1.0.0",
+  "description": "Typescript demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "demo"
+  ],
+  "author": "agrojas",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  }
+}
