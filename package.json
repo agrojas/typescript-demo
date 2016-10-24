@@ -2,6 +2,7 @@
   "name": "typescript-demos",
   "version": "1.0.0",
   "description": "Typescript demo",
+  "repository": "https://github.com/agrojas/typescript-demo",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
